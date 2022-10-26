@@ -117,7 +117,7 @@
         "Name": "Label2",
         "Parent": "Header",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 2,
+        "PublishOrderIndex": 3,
         "Rules": [
           {
             "Category": "Data",
