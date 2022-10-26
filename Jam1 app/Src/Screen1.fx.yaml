@@ -4,7 +4,7 @@ Screen1 As screen:
         Text: |-
             ="App: jam1"
         X: =570
-        Y: =662
+        Y: =544
         ZIndex: =1
 
     Header_1 As Header:
