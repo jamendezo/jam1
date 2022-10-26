@@ -3,8 +3,8 @@ Screen1 As screen:
     Label1 As label:
         Text: |-
             ="App: jam1"
-        X: =1080
-        Y: =400
+        X: =575
+        Y: =202
         ZIndex: =1
 
     Header_1 As Header:
