@@ -1,0 +1,15 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: |-
+            ="App: jam1"
+        X: =164
+        Y: =324
+        ZIndex: =1
+
+    Header_1 As Header:
+        HeaderFillColor: =RGBA(0, 134, 208, 1)
+        HeaderText: |-
+            ="Estoy usando el custom component llamado: Header"
+        ZIndex: =2
+

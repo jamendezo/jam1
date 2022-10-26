@@ -1,0 +1,22 @@
+Header As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    HeaderFillColor: =RGBA(0, 0, 0, 1)
+    HeaderFontColor: =White
+    HeaderText: ="Text"
+    Height: =80
+    Width: =1366
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Label2 As label:
+        Align: =Align.Center
+        Color: =Header.HeaderFontColor
+        Fill: =Header.HeaderFillColor
+        FontWeight: =FontWeight.Bold
+        Height: =80
+        Size: =24
+        Text: =Header.HeaderText
+        Width: =1366
+        ZIndex: =1
+
