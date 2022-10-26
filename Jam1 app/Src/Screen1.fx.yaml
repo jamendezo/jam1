@@ -15,7 +15,7 @@ Screen1 As screen:
 
     Button1 As button:
         Height: =42
-        Text: ="Button3"
+        Text: ="Button0"
         X: =570
         Y: =412
         ZIndex: =3
