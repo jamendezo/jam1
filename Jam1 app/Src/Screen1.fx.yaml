@@ -3,8 +3,8 @@ Screen1 As screen:
     Label1 As label:
         Text: |-
             ="App: jam1"
-        X: =164
-        Y: =324
+        X: =684
+        Y: =232
         ZIndex: =1
 
     Header_1 As Header:
@@ -12,4 +12,10 @@ Screen1 As screen:
         HeaderText: |-
             ="Estoy usando el custom component llamado: Header"
         ZIndex: =2
+
+    Button1 As button:
+        Text: ="Button"
+        X: =438
+        Y: =402
+        ZIndex: =3
 
