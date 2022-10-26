@@ -117,7 +117,7 @@
         "Name": "Label2",
         "Parent": "Header",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 3,
+        "PublishOrderIndex": 2,
         "Rules": [
           {
             "Category": "Data",
@@ -403,7 +403,7 @@
       },
       "HeaderText"
     ],
-    "LastModifiedTimestamp": "638024159732711053",
+    "LastModifiedTimestamp": "638024160162600794",
     "Name": "Header",
     "Rules": [
       {
@@ -508,7 +508,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638024159732711053",
+  "LastModifiedTimestamp": "638024160162600794",
   "Name": "45079db7357b4fc5b5a633ed84d933d0",
   "OverridableProperties": {},
   "Version": "638024082587547632"
